@@ -8,8 +8,8 @@
 </head>
 <body>
 
-	<h1>hola mundo</h1>
-	<p>loremmmmm</p>
+	<h1>Envios de Cookie idiomas</h1>
+	
 
 	<form action="idioma-Cookie" method="post">
 
@@ -32,6 +32,8 @@
 
 		<button>Guardar</button>
 	</form>
+	
+	
 
 </body>
 </html>
